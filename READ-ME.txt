@@ -1,0 +1,1 @@
+Download the game files and run the main.py file in your IDE in order to play!
